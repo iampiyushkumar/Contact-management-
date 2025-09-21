@@ -19,7 +19,7 @@ Fully single-page app built using:
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/iampiyushkumar/Contact-management-.git
-cd Contact-management
+cd Contact-management-
 npm init -y
 npm i express ejs 
 npm i nodemon -g
