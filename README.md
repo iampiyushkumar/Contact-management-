@@ -20,7 +20,11 @@ Fully single-page app built using:
 ```bash
 git clone https://github.com/iampiyushkumar/Contact-management-.git
 cd Contact-management-
+Create your own .env file in directory by adding PORT and MONGODB_URI
 npm init -y
-npm i express ejs 
+npm i dotenv
+npm i express
+npm i ejs
+npm i mongoose
 npm i nodemon -g
 nodemon index.js
